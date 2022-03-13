@@ -1,4 +1,4 @@
-# Where is "I Love Azure" ?
+# Where is *"I Love Azure"* ?
 
 
 ## Web Site
@@ -10,6 +10,10 @@
 
 
 ## GitHub
+
+## Telegram
+
+There is a private Telegram channel, which access is allowed only to whom will actively participating in the initiative.
 
 ## Social presence
 
