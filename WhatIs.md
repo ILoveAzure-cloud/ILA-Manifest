@@ -2,38 +2,23 @@
 
 ## Introduction
 
-**I Love Azure** is a new technical community focused on the *Microsoft Azure*.
-
-The intent is to create a free and **open knowledge-base** for *Microsoft Azure*.
-
-The main hope is that every member of the community, whatever their roles are, feels that they proudly belong to it.
+**I Love Azure** is a new technical community focused on the *Microsoft Azure*, which intent is to create a free and **open knowledge-base** about the Microsoft's cloud.
 
 ## Type of community
 
-It would be a "open publishing" community, which contents will be self-created by the contributors, with all credits to himself/herself.
+It is a sort of "open publishing" community, where every contributor will be able to publish self-created video contents, with all credits to himself/herself.
 
-The community will be published on a YouTube channel, open to anyone.
-There will be a private Telegram channel too, accessible only to anyone is interested in actively participating in this initiative.
+Contents will be edited just to add intro, outro and background music, and then published "as is" on the YouTube channel, freely available to anyone.
+
+More details about the channel can be found [here](channel.md).
+
+There will be a private Telegram group too, for organizational meaning and accessible only to people actively contributing in this initiative.
 
 ## Content type
 
-The contents hosted be only short video tutorial in English language
+The video contents must be short video tutorial (optimal between 5 and 15 minutes, maximum 20 minutes) in English language. 
 
-The channel on which the contents will be published will be only
-
-
-
-## Founder of "I Love Azure"
-
-- [Roberto Albano](https://www.linkedin.com/in/robertoalbano)
-
-## Contributors of "I Love Azure" (alphabetical ordered)
-
-- M1
-- M2
-- M3
-
-
+More details about video contents can be found [here](contents.md).
 
 
 
