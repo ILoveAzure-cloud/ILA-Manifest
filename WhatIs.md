@@ -12,7 +12,7 @@ There will be a private Telegram group too, for organizational meaning and acces
 
 ## Content type
 
-The video contents must be short video tutorial (optimal between 5 and 15 minutes, maximum 20 minutes) in English language. Contents will be edited just to add intro, outro and background music, and then published "as is". More details about video contents can be found [here](contents.md).
+The video contents must be short video tutorial (optimal between 5 and 15 minutes, maximum 20 minutes) in English language. Contents will be edited just to add intro, outro and background music, and then published "as is". More details about video contents can be found [here](content.md).
 
 -----------------------------------------------------
 [<< go back to README](README.md)
