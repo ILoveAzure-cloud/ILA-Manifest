@@ -2,7 +2,7 @@
 
 
 ## Web Site
-- [I Love Azure](https://iloveazure.cloud)
+- ### [I Love Azure](https://iloveazure.cloud)
 
 ## YouTube
 
@@ -11,9 +11,11 @@
 
 ## GitHub
 
+- ### [I Love Azure - Manifest](https://github.com/ILoveAzure-cloud/manifest)
+
 ## Telegram
 
-There is a private Telegram channel, which access is allowed only to whom will actively participating in the initiative.
+Private [Telegram group](#), allowed only to whom will actively participating in the initiative.
 
 ## Social presence
 

@@ -1,8 +1,8 @@
 # "I Love Azure" manifest
 
-This is the manifest of "I Love Azure" (from now on, "I Love Azure" could be identified simply as ILA).
+This is the manifest of _"I Love Azure"_ (from now on, simplified as ILA).
 
-It is a public repository with all the information about it.
+Here you can find all the information about this initiative:
 
 - ## [What is "I Love Azure"](WhatIs.md)
 - ## [Where is "I Love Azure" ?](WhereIs.md)
