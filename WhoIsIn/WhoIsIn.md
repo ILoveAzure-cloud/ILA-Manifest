@@ -22,6 +22,5 @@ _still starting, nobody is here at the moment_
 3. Social Media Manager
 4. Moderator
 
-
 -----------------------------------------------------
-[<< go back to README](README.md)
+**[<< return to MANIFEST](..\README.MD)**
