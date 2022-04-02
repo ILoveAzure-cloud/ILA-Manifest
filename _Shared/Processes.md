@@ -1,6 +1,6 @@
 # Processes defined for "I Love Azure"
 
-- ## [How to become a contributor](BecomeContribor.md)
+- ## [How to become a contributor](BecomeContributor.md)
 
 
 
