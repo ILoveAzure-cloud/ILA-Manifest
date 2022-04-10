@@ -11,3 +11,7 @@ Here you can find all the information about this initiative:
 - ## [How to participate to "I Love Azure"?](HowToPart/HowToPart.md)
 
 - ## [Who is part of "I Love Azure"?](WhoIsIn/WhoIsIn.md)
+
+---
+Manifest version: *0.1*
+[Release notes](History.md)

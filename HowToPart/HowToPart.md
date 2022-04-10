@@ -12,7 +12,7 @@ When attending contents is not enough, and you know that your contribution can m
 
 Have you some (even little) skills on *Microsoft Azure* and you want to join in the initiative? Are you driven by your passion on this topic? You're welcome!!!
 
-Send us a mail [at this address](mailto:ila-community@outlook.com) with the url to your LinkedIn page and just your first ideas to content you may publish on ILA.
+Send us a mail [at this address](mailto:ila-org@outlook.com) with the url to your LinkedIn page and just your first ideas to content you may publish on ILA.
 
 We will get in touch with you, will enroll you in the private Telegram group and reserve a space for you on OneDrive where you can upload the content you create.
 
@@ -26,15 +26,15 @@ You don't feel confident to share your knowledge about *Microsoft Azure* but you
 
 We need anyone want to edit, publish, organize, and do whatever is required to maintain this community up and running, and growing day by day!
 
-Send us a mail [at this address](mailto:ila-community@outlook.com) with the url to your LinkedIn page and your ideas oh how you can help us and we will get in touch with you!
+Send us a mail [at this address](mailto:ila-org@outlook.com) with the url to your LinkedIn page and your ideas oh how you can help us and we will get in touch with you!
 
 ## All Roles
 
 You can found [here the full list of *roles*](..\_Shared\Roles.md) and what is the scope for every one.
 
------------------------------------------------------
+---
 *go to...*
 
-- [What is "I Love Azure"](WhatIs/WhatIs.md)
-- [Where is "I Love Azure" ?](WhereIs/WhereIs.md)
-- [Who is part of "I Love Azure"?](WhoIsIn/WhoIsIn.md)
+- [What is "I Love Azure"](..\WhatIs\WhatIs.md)
+- [Where is "I Love Azure" ?](..\WhereIs\WhereIs.md)
+- [Who is part of "I Love Azure"?](..\WhoIsIn\WhoIsIn.md)

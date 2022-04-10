@@ -1,9 +1,10 @@
 # Roles in "I Love Azure"
 
 Following there is the list of roles provided for ILA initiative.
-Once you decided to participate, be sure to understand the [processes defined for ILA](Processes.md) to achieve the rule.
 
-Remeber that **every role is important** for the success of ILA.
+Please remember that **every role is IMPORTANT** for the success of ILA.
+
+Once you decided to participate, be sure to understand the [processes defined for ILA](Processes.md) to achieve the role.
 
 ## Contributor
 
@@ -38,6 +39,7 @@ Of course to achieve the role, the Publisher will be enabled for publishing on t
 ## Social Manager
 
 The Social Manager is able to publish posts and news to feed social presence of ILA on the web.
+
 ## Moderator
 
 This role is still in definition. It probably will be someone available to moderate comments on ILA YouTube channel and other social media where interaction with external users is allowed.
@@ -46,5 +48,10 @@ This role is still in definition. It probably will be someone available to moder
 
 This is a sort of "super user" role, enabled for all the previous roles, and able to assign or invite to roles people that wants to help the initiative.
 
------------------------------------------------------
-**[<< return to MANIFEST](..\README.MD)**
+---
+*go to...*
+
+- [What is "I Love Azure"](..\WhatIs\WhatIs.md)
+- [Where is "I Love Azure" ?](..\WhereIs\WhereIs.md)
+- [How to participate to "I Love Azure"?](..\HowToPart\HowToPart.md)
+- [Who is part of "I Love Azure"?](..\WhoIsIn\WhoIsIn.md)

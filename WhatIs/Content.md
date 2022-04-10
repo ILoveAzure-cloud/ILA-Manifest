@@ -10,15 +10,11 @@ All video MUST BE in **English language**.
 
 Content could be related to "non-technical" aspects such as marketing, pricing, architecture, general availability announce, public github repo or whatever could be useful in any way to the attendee to learn more about *Microsoft Azure* .
 
-## Processes related to content
+In the [processes page](..\_Shared\Processes.md), there will be contributor processes explained, including new content creation guidelines.
 
-The following pages explains more about processes that involves content:
+---
+*go to...*
 
-- [How contributors can create content for ILA](Content\CreateContent.md)
-
-- [How contributors can send a new content to ILA for publishing](Content\SendContent.md)
-
-- [How editors can edit content to publish](Content\EditContent.md)
-
------------------------------------------------------
-[<< go back to MANIFEST](..\Content.md)
+- [Where is "I Love Azure" ?](..\WhereIs\WhereIs.md)
+- [How to participate to "I Love Azure"?](..\HowToPart\HowToPart.md)
+- [Who is part of "I Love Azure"?](..\WhoIsIn\WhoIsIn.md)

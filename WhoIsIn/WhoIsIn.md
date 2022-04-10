@@ -1,30 +1,39 @@
 # Who is part of "I Love Azure" ?
 
+Following there is the list of people involved in this community (ordered alphabetically by surname).
+For all about the roles check [this page](..\_Shared\Roles.md).
 
-## Founder of "I Love Azure"
+## Founders
 
 - [Roberto Albano](https://www.linkedin.com/in/robertoalbano)
 
-## Contributors of "I Love Azure" (alphabetical ordered)
+## Contributors
 
-_still starting, nobody is here at the moment_
+TBD
 
-## Staff of "I Love Azure" (alphabetical ordered by surname)
+## Editors
 
-- [Roberto Albano (1)(2)(3)(4)](https://www.linkedin.com/in/robertoalbano)
+- [Roberto Albano](https://www.linkedin.com/in/robertoalbano)
 
+## Publishers
 
+- [Roberto Albano](https://www.linkedin.com/in/robertoalbano)
 
-### Roles
+## Social Managers
 
-1. Content Editor
-2. Content Publisher
-3. Social Media Manager
-4. Moderator
+- [Roberto Albano](https://www.linkedin.com/in/robertoalbano)
 
------------------------------------------------------
+## Moderators
+
+- [Roberto Albano](https://www.linkedin.com/in/robertoalbano)
+
+## Administrators
+
+- [Roberto Albano](https://www.linkedin.com/in/robertoalbano)
+
+---
 *go to...*
 
-- [What is "I Love Azure"](WhatIs/WhatIs.md)
-- [Where is "I Love Azure" ?](WhereIs/WhereIs.md)
-- [How to participate to "I Love Azure"?](HowToPart/HowToPart.md)
+- [What is "I Love Azure"](..\WhatIs\WhatIs.md)
+- [Where is "I Love Azure" ?](..\WhereIs\WhereIs.md)
+- [How to participate to "I Love Azure"?](..\HowToPart\HowToPart.md)
