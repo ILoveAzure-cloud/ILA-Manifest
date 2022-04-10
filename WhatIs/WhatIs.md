@@ -12,4 +12,4 @@ The [video contents](WhatIs\content.md) should be short video tutorials or any o
 *This is a **non-profit initiative**, with just volunteer sharing with no direct or indirect earning at all, so please participate only if you are driven by an insane passion for sharing and for Azure cloud in particular.*
 
 -----------------------------------------------------
-**[<< return to MANIFEST](..)**
+**[<< return to MANIFEST](..\INDEX.MD)**
