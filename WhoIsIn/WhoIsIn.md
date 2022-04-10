@@ -1,4 +1,4 @@
-# Who is in "I Love Azure" ?
+# Who is part of "I Love Azure" ?
 
 
 ## Founder of "I Love Azure"
@@ -23,4 +23,8 @@ _still starting, nobody is here at the moment_
 4. Moderator
 
 -----------------------------------------------------
-**[<< return to MANIFEST](..\README.MD)**
+*go to...*
+
+- [What is "I Love Azure"](WhatIs/WhatIs.md)
+- [Where is "I Love Azure" ?](WhereIs/WhereIs.md)
+- [How to participate to "I Love Azure"?](HowToPart/HowToPart.md)

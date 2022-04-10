@@ -36,4 +36,8 @@ This is the list of social network and/or other sites related to ILA initiative.
 - ### [Twitter](https://twitter.com/_iloveazure)
 
 -----------------------------------------------------
-**[<< return to MANIFEST](..\README.MD)**
+*go to...*
+
+- [What is "I Love Azure"](WhatIs/WhatIs.md)
+- [How to participate to "I Love Azure"?](HowToPart/HowToPart.md)
+- [Who is part of "I Love Azure"?](WhoIsIn/WhoIsIn.md)

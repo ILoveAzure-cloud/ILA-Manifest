@@ -33,4 +33,8 @@ Send us a mail [at this address](mailto:ila-community@outlook.com) with the url 
 You can found [here the full list of *roles*](..\_Shared\Roles.md) and what is the scope for every one.
 
 -----------------------------------------------------
-**[<< return to MANIFEST](..\README.MD)**
+*go to...*
+
+- [What is "I Love Azure"](WhatIs/WhatIs.md)
+- [Where is "I Love Azure" ?](WhereIs/WhereIs.md)
+- [Who is part of "I Love Azure"?](WhoIsIn/WhoIsIn.md)
