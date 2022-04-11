@@ -5,4 +5,14 @@ relative_links:
   collections: true
 include:
   - README.md
+  - History.md
+  - WhatIs\*.md
+  - WhereIs\*.md
+  - HowToPart\*.md
+  - WhoIsIn\*.md
+  - _Shared\*.md
+  - _Shared\_Processes\_Contributor\*.md
+  - _Shared\_Processes\_Editor\*.md
+  - _Shared\_Processes\_Social\*.md
+  - _Templates\*.md
 theme: jekyll-theme-leap-day
