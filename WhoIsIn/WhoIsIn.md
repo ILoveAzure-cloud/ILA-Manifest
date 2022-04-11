@@ -1,7 +1,7 @@
 # Who is part of "I Love Azure" ?
 
 Following there is the list of people involved in this community (ordered alphabetically by surname).
-For all about the roles check [this page](..\_Shared\Roles.md).
+For all about the roles check [this page](..\Shared\Roles.md).
 
 ## Founders
 
