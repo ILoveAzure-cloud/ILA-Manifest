@@ -22,7 +22,7 @@ TBD
 
 ## Social Manager
 
-- ## [How to use social media to spread about ILA new content](_Processes\_Social\NewPost.md)
+- ## [How to use social media to spread about ILA new content](.\_Processes\_Social\NewPost.md)
 
 ## Moderator
 
