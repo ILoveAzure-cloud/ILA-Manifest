@@ -24,7 +24,7 @@ This is the showcase of ILA, here there will be more information that cannot be 
 
 ## Telegram
 
-There is a **private Telegram group**, allowed only to whom will actively participate to the initiative, with [any role](..\_Shared\Roles.md).
+There is a **private Telegram group**, allowed only to whom will actively participate to the initiative, with [any role](..\^Shared\Roles.md).
 
 To be actively involved in the initiative, read more on [how to participate](..\HowToPart\HowToPart.md).
 
