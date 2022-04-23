@@ -1,4 +1,4 @@
-# How to participate to *_"I Love Azure"_*
+# How to participate to **"I Love Azure"**
 
 ## Introduction
 
@@ -16,7 +16,7 @@ Send us a mail [at this address](mailto:ila-org@outlook.com) with the url to you
 
 We will get in touch with you, will enroll you in the private Telegram group and reserve a space for you on OneDrive where you can upload the content you create.
 
-Please remember that the content must follow [this guidelines](#)!
+<!-- Please remember that the content must follow [this guidelines](#)! -->
 
 And most important thing: don't worry if you are not the great guru of #Microsoft Azure#, this place is for all people that wants to share any kind of knowledge, even simple tips to better use the Microsoft's cloud.
 
