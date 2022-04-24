@@ -30,7 +30,7 @@ Send us a mail [at this address](mailto:ila-org@outlook.com) with the url to you
 
 ## All Roles
 
-You can found [here the full list of *roles*](..\Shared\Roles.md) and what is the scope for every one.
+You can found [here the full list of *roles*](..\Common\Roles\Roles.md) and what is the scope for every one.
 
 ---
 *go to...*
