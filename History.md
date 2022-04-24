@@ -1,6 +1,6 @@
 # "I Love Azure" MANIFEST - Release Notes
 
-0.1. March 11th, 2022, First release
+0.1. March 24th, 2022, First release
 
 ---
 *go to...*
