@@ -1,4 +1,6 @@
 ---
+author: Roberto Albano
+layout: default
 ---
 
 # YouTube channel for *"I Love Azure"*

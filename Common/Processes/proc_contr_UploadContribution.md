@@ -1,4 +1,6 @@
 ---
+author: Roberto Albano
+layout: default
 ---
 
 # How to upload a contribution for "I Love Azure"

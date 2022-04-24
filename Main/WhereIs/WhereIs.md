@@ -1,4 +1,6 @@
 ---
+author: Roberto Albano
+layout: default
 ---
 
 # Where is *"I Love Azure"* ?

@@ -1,4 +1,6 @@
 ---
+author: Roberto Albano
+layout: default
 ---
 
 # Processes defined for "I Love Azure"

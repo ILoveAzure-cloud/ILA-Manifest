@@ -1,4 +1,6 @@
 ---
+author: Roberto Albano
+layout: default
 ---
 
 # Contents for *"I Love Azure"*

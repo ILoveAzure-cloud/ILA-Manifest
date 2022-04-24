@@ -1,6 +1,8 @@
 ---
 author: Roberto Albano
+layout: default
 ---
+
 # "I Love Azure" MANIFEST
 
 This is the *manifest* of ***I Love Azure*** (aka *ILA*).

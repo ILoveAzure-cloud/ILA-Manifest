@@ -9,12 +9,11 @@ url: "iloveazure.org"
 twitter_username: _iloveazure
 plugins:
   - jekyll-relative-links
-theme: jekyll-theme-leap-day
-gems:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-figure
+theme: jekyll-theme-leap-day
 include:
   - /*.md
-layout: null
 port: 8671
+layout: default

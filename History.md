@@ -1,5 +1,6 @@
 ---
 author: Roberto Albano
+layout: default
 ---
 
 # "I Love Azure" MANIFEST - Release Notes
