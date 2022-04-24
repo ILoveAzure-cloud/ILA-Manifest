@@ -1,3 +1,11 @@
+title: I Love Azure
+author: Roberto Albano
+email: ila.community@hotmail.com
+description: I Love Azure community manifest
+markdown: kramdown
+baseurl: ""
+url: "iloveazure.org"
+twitter_username: _iloveazure
 plugins:
   - jekyll-relative-links
 relative_links:
@@ -6,9 +14,14 @@ relative_links:
 include:
   - README.md
   - History.md
-  - WhatIs\*.md
+  - WhatIs\WhatIs.md
+  - WhatIs/WhatIs.md
   - WhereIs\*.md
   - HowToPart\*.md
   - WhoIsIn\*.md
   - Shared\*.md
 theme: jekyll-theme-leap-day
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll/figure
