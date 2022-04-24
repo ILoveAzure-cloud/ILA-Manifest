@@ -1,3 +1,6 @@
+---
+---
+
 # Processes defined for "I Love Azure"
 
 Following there is the list of processes defined for ILA initiative.
@@ -10,7 +13,6 @@ Processes are grouped by [role](Roles.md).
 - ### [How to create content](proc_contr_CreateContent.md)
 
 - ### [How to upload a contribution](proc_contr_UploadContribution.md)
-
 
 ## Editor
 

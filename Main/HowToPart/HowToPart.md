@@ -1,3 +1,6 @@
+---
+---
+
 # How to participate to **"I Love Azure"**
 
 ## Introduction

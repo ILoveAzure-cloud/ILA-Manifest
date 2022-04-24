@@ -1,3 +1,6 @@
+---
+---
+
 # How to upload a contribution for "I Love Azure"
 
 TBD

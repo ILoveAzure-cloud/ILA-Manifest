@@ -1,3 +1,6 @@
+---
+---
+
 # Contents for *"I Love Azure"*
 
 ## Definition of content

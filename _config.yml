@@ -4,24 +4,17 @@ email: ila.community@hotmail.com
 description: I Love Azure community manifest
 markdown: kramdown
 baseurl: ""
+destination: _docs
 url: "iloveazure.org"
 twitter_username: _iloveazure
 plugins:
   - jekyll-relative-links
-relative_links:
-  enabled: true
-  collections: true
-include:
-  - README.md
-  - History.md
-  - WhatIs\WhatIs.md
-  - WhatIs/WhatIs.md
-  - WhereIs\*.md
-  - HowToPart\*.md
-  - WhoIsIn\*.md
-  - Shared\*.md
 theme: jekyll-theme-leap-day
 gems:
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll/figure
+  - jekyll-figure
+include:
+  - /*.md
+layout: null
+port: 8671
