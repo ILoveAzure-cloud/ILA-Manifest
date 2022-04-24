@@ -4,7 +4,6 @@ email: ila.org@hotmail.com
 description: I Love Azure community manifest
 markdown: kramdown
 baseurl: ""
-destination: _docs
 twitter_username: _iloveazure
 plugins:
   - jekyll-relative-links
