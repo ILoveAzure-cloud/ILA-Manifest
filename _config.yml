@@ -1,11 +1,10 @@
 title: I Love Azure
 author: Roberto Albano
-email: ila.community@hotmail.com
+email: ila.org@hotmail.com
 description: I Love Azure community manifest
 markdown: kramdown
 baseurl: ""
 destination: _docs
-url: "iloveazure.org"
 twitter_username: _iloveazure
 plugins:
   - jekyll-relative-links
@@ -13,7 +12,4 @@ plugins:
   - jekyll-sitemap
   - jekyll-figure
 theme: jekyll-theme-leap-day
-include:
-  - /*.md
-port: 8671
 layout: default
