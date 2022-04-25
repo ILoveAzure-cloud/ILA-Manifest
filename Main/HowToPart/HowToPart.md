@@ -1,8 +1,3 @@
----
-author: Roberto Albano
-layout: default
----
-
 # How to participate to **"I Love Azure"**
 
 ## Introduction

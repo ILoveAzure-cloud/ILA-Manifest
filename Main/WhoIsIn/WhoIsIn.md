@@ -1,8 +1,3 @@
----
-author: Roberto Albano
-layout: default
----
-
 # Who is part of "I Love Azure" ?
 
 Following there is the list of people involved in this community (ordered alphabetically by surname).

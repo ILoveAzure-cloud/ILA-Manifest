@@ -1,8 +1,3 @@
----
-author: Roberto Albano
-layout: default
----
-
 # Processes defined for "I Love Azure"
 
 Following there is the list of processes defined for ILA initiative.

@@ -1,8 +1,3 @@
----
-author: Roberto Albano
-layout: default
----
-
 # YouTube channel for *"I Love Azure"*
 
 The YouTube channel for ILA is reachable at [this link](https://www.youtube.com/channel/UCTlB5cXYRrAZDcCdLS3A_pg).

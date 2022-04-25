@@ -1,8 +1,3 @@
----
-author: Roberto Albano
-layout: default
----
-
 # "I Love Azure" MANIFEST - Release Notes
 
 0.1. March 24th, 2022, First release

@@ -1,8 +1,3 @@
----
-author: Roberto Albano
-layout: default
----
-
 # Where is *"I Love Azure"* ?
 
 Following you can find the references about ILA.

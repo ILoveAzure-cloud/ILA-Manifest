@@ -1,8 +1,3 @@
----
-author: Roberto Albano
-layout: default
----
-
 # What is *"I Love Azure"*
 
 **I Love Azure** is a new technical community whose intent is to create a **free and open knowledge base** focused on the *Microsoft Azure* cloud.
