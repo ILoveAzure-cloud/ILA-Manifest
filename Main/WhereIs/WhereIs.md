@@ -1,3 +1,7 @@
+---
+author: Roberto Albano
+layout: default
+---
 # Where is *"I Love Azure"* ?
 
 Following you can find the references about ILA.
@@ -39,6 +43,6 @@ This is the list of social network and/or other sites related to ILA initiative.
 ---
 *go to...*
 
-- [What is "I Love Azure"](..\WhatIs\WhatIs.md)
-- [How to participate to "I Love Azure"?](..\HowToPart\HowToPart.md)
-- [Who is part of "I Love Azure"?](..\WhoIsIn\WhoIsIn.md)
+- [What is "I Love Azure"](..\WhatIs\WhatIs.html)
+- [How to participate to "I Love Azure"?](..\HowToPart\HowToPart.html)
+- [Who is part of "I Love Azure"?](..\WhoIsIn\WhoIsIn.html)

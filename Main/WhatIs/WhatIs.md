@@ -1,3 +1,7 @@
+---
+author: Roberto Albano
+layout: default
+---
 # What is *"I Love Azure"*
 
 **I Love Azure** is a new technical community whose intent is to create a **free and open knowledge base** focused on the *Microsoft Azure* cloud.
@@ -14,6 +18,6 @@ The [video contents](content.md) should be short video tutorials or any other us
 ---
 *go to...*
 
-- [Where is "I Love Azure" ?](..\WhereIs\WhereIs.md)
-- [How to participate to "I Love Azure"?](..\HowToPart\HowToPart.md)
-- [Who is part of "I Love Azure"?](..\WhoIsIn\WhoIsIn.md)
+- [Where is "I Love Azure" ?](..\WhereIs\WhereIs.html)
+- [How to participate to "I Love Azure"?](..\HowToPart\HowToPart.html)
+- [Who is part of "I Love Azure"?](..\WhoIsIn\WhoIsIn.html)

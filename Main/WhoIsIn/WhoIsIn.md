@@ -1,3 +1,7 @@
+---
+author: Roberto Albano
+layout: default
+---
 # Who is part of "I Love Azure" ?
 
 Following there is the list of people involved in this community (ordered alphabetically by surname).
@@ -34,6 +38,6 @@ TBD
 ---
 *go to...*
 
-- [What is "I Love Azure"](..\WhatIs\WhatIs.md)
-- [Where is "I Love Azure" ?](..\WhereIs\WhereIs.md)
-- [How to participate to "I Love Azure"?](..\HowToPart\HowToPart.md)
+- [What is "I Love Azure"](..\WhatIs\WhatIs.html)
+- [Where is "I Love Azure" ?](..\WhereIs\WhereIs.html)
+- [How to participate to "I Love Azure"?](..\HowToPart\HowToPart.html)
