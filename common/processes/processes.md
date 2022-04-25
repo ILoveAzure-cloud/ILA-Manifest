@@ -9,15 +9,15 @@ Processes are grouped by [role](../roles/roles.html).
 
 ## Contributors
 
-- ### [How to become a contributor](proc_contr_BecomeContributor.html)
+- ### [How to become a contributor](proc_contr_becomecontributor.html)
 
-- ### [How to create content](proc_contr_CreateContent.html)
+- ### [How to create content](proc_contr_createcontent.html)
 
-- ### [How to upload a contribution](proc_contr_UploadContribution.html)
+- ### [How to upload a contribution](proc_contr_uploadcontribution.html)
 
 ## Editor
 
-- ### [How to publish a contribution](proc_edit_PublishContribution.html)
+- ### [How to publish a contribution](proc_edit_publishcontribution.html)
 
 ## Publisher
 
@@ -25,7 +25,7 @@ TBD
 
 ## Social Manager
 
-- ## [How to use social media to spread about ILA new content](proc_social_NewPost.html)
+- ## [How to use social media to spread about ILA new content](proc_social_newpost.html)
 
 ## Moderator
 
