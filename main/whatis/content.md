@@ -12,7 +12,11 @@ Optimal content length should be **between 5 and 15 minutes**, with a desirable 
 
 All video MUST BE in **English language**.
 
-Content could be related to "non-technical" aspects such as marketing, pricing, architecture, general availability announce, public github repo or whatever could be useful in any way to the attendee to learn more about *Microsoft Azure* .
+## Type of content
+
+Content usually should be related to "technical" aspects such as explaination on something to achieve or configure using resources available on *Microsoft Azure*. This is the kind of content that the audience should be reasonably sure to find as created from this community.
+
+Nonetheless the content could be related to "non-technical" aspects such as marketing, pricing, architecture, general availability announcement, public github repo or whatever could be useful in any way to the attendee to learn more about *Microsoft Azure* .
 
 In the [processes page](../../common/processes.html), there will be contributor processes explained, including new content creation guidelines.
 
