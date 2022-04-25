@@ -16,7 +16,7 @@ When attending content is not enough, and you know that your contribution can ma
 
 Have you some (even little) skills on *Microsoft Azure* and do you want to join in the initiative? Are you driven by your passion for this topic? You're welcome!!!
 
-Send us a mail [at this address](mailto:ila-org@outlook.com) with the URL to your LinkedIn page and just your first ideas to content you may publish on ILA.
+Send us a mail [at this address](mailto:ila.org@outlook.com) with the URL to your LinkedIn page and just your first ideas to content you may publish on ILA.
 
 We will get in touch with you, will enroll you in the private Telegram group and reserve a space for you on OneDrive where you can upload the content you create.
 
@@ -28,7 +28,7 @@ You don't feel confident sharing your knowledge about *Microsoft Azure* but you 
 
 We need anyone who wants to edit, publish, organize, and do whatever is required to maintain this community up and running, and growing day by day!
 
-Send us a mail [at this address](mailto:ila-org@outlook.com) with the URL to your LinkedIn page and your ideas on how you can help us and we will get in touch with you!
+Send us a mail [at this address](mailto:ila.org@outlook.com) with the URL to your LinkedIn page and your ideas on how you can help us and we will get in touch with you!
 
 ## All Roles
 
