@@ -18,7 +18,7 @@ Content usually should be related to "technical" aspects such as an explanation 
 
 Nonetheless, the content could be related to "non-technical" aspects such as marketing, pricing, architecture, general availability announcement, public repo or whatever could be useful in any way to the attendee to learn more about *Microsoft Azure*.
 
-On the [processes page](../../common/processes.html), there will be contributor processes explained, including new content creation guidelines.
+On the [processes page](../../common/processes/processes.html), there will be contributor processes explained, including new content creation guidelines.
 
 ---
 *go to...*
