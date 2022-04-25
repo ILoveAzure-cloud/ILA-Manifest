@@ -11,4 +11,4 @@ TBC
 ---
 *go to...*
 
-- [Processes defined for "I Love Azure"](..\..\Processes.md)
+- [Processes defined for "I Love Azure"](processes.html)

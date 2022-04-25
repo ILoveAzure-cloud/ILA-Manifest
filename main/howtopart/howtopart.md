@@ -8,7 +8,7 @@ layout: default
 
 Everyone feels that sharing or acquiring knowledge about #Microsoft Azure# is welcome in the initiative.
 
-If you just want to attend the video contents, you're welcome on the [YouTube channel](..\WhereIs\Channel.html)
+If you just want to attend the video contents, you're welcome on the [YouTube channel](../WhereIs/channel.html)
 
 When attending contents is not enough, and you know that your contribution can make the difference, you just want to continue reading this page.
 
@@ -34,11 +34,11 @@ Send us a mail [at this address](mailto:ila-org@outlook.com) with the url to you
 
 ## All Roles
 
-You can found [here the full list of *roles*](..\common\roles\roles.html) and what is the scope for every one.
+You can found [here the full list of *roles*](../common/roles/roles.html) and what is the scope for every one.
 
 ---
 *go to...*
 
-- [What is "I Love Azure"](..\WhatIs\WhatIs.html)
-- [Where is "I Love Azure" ?](..\WhereIs\WhereIs.html)
-- [Who is part of "I Love Azure"?](..\WhoIsIn\WhoIsIn.html)
+- [What is "I Love Azure"](../whatis/whatis.html)
+- [Where is "I Love Azure" ?](../whereis/whereis.html)
+- [Who is part of "I Love Azure"?](../whoisin/whoisin.html)

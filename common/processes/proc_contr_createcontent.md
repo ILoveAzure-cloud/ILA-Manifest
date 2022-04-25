@@ -14,7 +14,7 @@ All video text and audio MUST BE in **English language**.
 
 Content could be related to "non-technical" aspects such as marketing, pricing, architecture, general availability announce, public github repo or whatever could be useful in any way to the attendee to learn more about *Microsoft Azure* .
 
-In the [processes page](..\Shared\Processes.md), there will be contributor processes explained, including new content creation guidelines.
+In the [processes page](processes.html), there will be contributor processes explained, including new content creation guidelines.
 
 ## Tools and software to use
 
@@ -50,4 +50,4 @@ Once the content has been created and exported for publications, the **following
 ---
 *go to...*
 
-- [Processes defined for "I Love Azure"](..\..\Processes.md)
+- [Processes defined for "I Love Azure"](processes.html)

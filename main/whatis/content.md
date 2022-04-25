@@ -14,11 +14,11 @@ All video MUST BE in **English language**.
 
 Content could be related to "non-technical" aspects such as marketing, pricing, architecture, general availability announce, public github repo or whatever could be useful in any way to the attendee to learn more about *Microsoft Azure* .
 
-In the [processes page](..\Shared\Processes.html), there will be contributor processes explained, including new content creation guidelines.
+In the [processes page](../../common/processes.html), there will be contributor processes explained, including new content creation guidelines.
 
 ---
 *go to...*
 
-- [Where is "I Love Azure" ?](..\WhereIs\WhereIs.html)
-- [How to participate to "I Love Azure"?](..\HowToPart\HowToPart.html)
-- [Who is part of "I Love Azure"?](..\WhoIsIn\WhoIsIn.html)
+- [Where is "I Love Azure" ?](../whereis/whereis.html)
+- [How to participate to "I Love Azure"?](../howtopart/howtopart.html)
+- [Who is part of "I Love Azure"?](../whoisin/whoisin.html)

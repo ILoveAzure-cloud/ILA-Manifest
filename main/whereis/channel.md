@@ -6,12 +6,12 @@ layout: default
 
 The YouTube channel for ILA is reachable at [this link](https://www.youtube.com/channel/UCTlB5cXYRrAZDcCdLS3A_pg).
 
-It is the **heart of the initiative**, where [contents](..\WhatIs\Content.md) will be published.
+It is the **heart of the initiative**, where [contents](../whatis\content.html) will be published.
 
 ---
 *go to...*
 
-- [What is "I Love Azure"](..\WhatIs\WhatIs.html)
-- [Where is "I Love Azure" ?](..\WhereIs\WhereIs.html)
-- [How to participate to "I Love Azure"?](..\HowToPart\HowToPart.html)
-- [Who is part of "I Love Azure"?](..\WhoIsIn\WhoIsIn.html)
+- [What is "I Love Azure"](../whatis\whatis.html)
+- [Where is "I Love Azure" ?](../whereis/whereis.html)
+- [How to participate to "I Love Azure"?](../howtopart/howtopart.html)
+- [Who is part of "I Love Azure"?](../whoisin/whoisin.html)

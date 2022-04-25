@@ -12,7 +12,7 @@ This is the **heart of the initiative**, where contents will be published:
 
 - ### [Channel "I Love Azure"](https://www.youtube.com/channel/UCTlB5cXYRrAZDcCdLS3A_pg)
 
-Read more about the [YouTube channel here](Channel.md).
+Read more about the [YouTube channel here](channel.html).
 
 ## Web Site
 
@@ -28,9 +28,9 @@ This is the showcase of ILA, here there will be more information that cannot be 
 
 ## Telegram
 
-There is a **private Telegram group**, allowed only to whom will actively participate to the initiative, with [any role](..\Shared\Roles.md).
+There is a **private Telegram group**, allowed only to whom will actively participate to the initiative, with [any role](../../common/roles/roles.html).
 
-To be actively involved in the initiative, read more on [how to participate](..\HowToPart\HowToPart.md).
+To be actively involved in the initiative, read more on [how to participate](../howtopart/howtopart.html).
 
 ## Social presence
 
@@ -43,6 +43,6 @@ This is the list of social network and/or other sites related to ILA initiative.
 ---
 *go to...*
 
-- [What is "I Love Azure"](..\WhatIs\WhatIs.html)
-- [How to participate to "I Love Azure"?](..\HowToPart\HowToPart.html)
-- [Who is part of "I Love Azure"?](..\WhoIsIn\WhoIsIn.html)
+- [What is "I Love Azure"](../whatis\whatis.html)
+- [How to participate to "I Love Azure"?](../howtopart/howtopart.html)
+- [Who is part of "I Love Azure"?](../whoisin/whoisin.html)

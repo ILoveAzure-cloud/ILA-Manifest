@@ -9,4 +9,4 @@ TBD
 ---
 *go to...*
 
-- [Processes defined for "I Love Azure"](..\processes\processes.html)
+- [Processes defined for "I Love Azure"](../processes\processes.html)

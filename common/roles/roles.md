@@ -8,7 +8,7 @@ Following there is the list of roles provided for ILA initiative.
 
 Please remember that **every role is IMPORTANT** for the success of ILA.
 
-Once you decided to participate, be sure to understand the [processes defined for ILA](Processes.md) to achieve the role.
+Once you decided to participate, be sure to understand the [processes defined for ILA](../processes/processes.html) to achieve the role.
 
 ## Contributor
 
@@ -55,7 +55,7 @@ This is a sort of "super user" role, enabled for all the previous roles, and abl
 ---
 *go to...*
 
-- [What is "I Love Azure"](..\WhatIs\WhatIs.md)
-- [Where is "I Love Azure" ?](..\WhereIs\WhereIs.md)
-- [How to participate to "I Love Azure"?](..\HowToPart\HowToPart.md)
-- [Who is part of "I Love Azure"?](..\WhoIsIn\WhoIsIn.md)
+- [What is "I Love Azure"](main/whatis/whatis.html)
+- [Where is "I Love Azure" ?](main/whereis/whereis.html)
+- [How to participate to "I Love Azure"?](main/howtopart/howtopart.html)
+- [Who is part of "I Love Azure"?](main/whoisin/whoisin.html)
