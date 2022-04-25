@@ -6,7 +6,7 @@ layout: default
 
 ## Introduction
 
-Everyone who feels that sharing or acquiring knowledge about #Microsoft Azure# is welcome in the initiative.
+Everyone who feels that sharing or acquiring knowledge about *Microsoft Azure* is a good practice is welcome in the initiative.
 
 If you just want to attend the video contents, you're welcome on the [YouTube channel](../WhereIs/channel.html)
 
