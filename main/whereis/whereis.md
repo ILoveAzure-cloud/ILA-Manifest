@@ -28,13 +28,13 @@ This is the showcase of ILA, here there will be more information that cannot be 
 
 ## Telegram
 
-There is a **private Telegram group**, allowed only to whom will actively participate to the initiative, with [any role](../../common/roles/roles.html).
+There is a **private Telegram group**, allowed only to whom will actively participate in the initiative, with [any role](../../common/roles/roles.html).
 
 To be actively involved in the initiative, read more on [how to participate](../howtopart/howtopart.html).
 
 ## Social presence
 
-This is the list of social network and/or other sites related to ILA initiative.
+This is the list of social networks and/or other sites related to the ILA initiative.
 
 - ### [Twitter](https://twitter.com/_iloveazure)
 

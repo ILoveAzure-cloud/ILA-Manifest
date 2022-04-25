@@ -17,5 +17,5 @@ Here you can find all the information about this initiative:
 - ## [Who is part of "I Love Azure"?](Main/WhoIsIn/WhoIsIn.html)
 
 ---
-Manifest version: *0.1*
+Manifest version: *0.2*
 [Release notes](history.html)

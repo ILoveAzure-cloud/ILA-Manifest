@@ -6,6 +6,7 @@ layout: default
 # "I Love Azure" MANIFEST - Release Notes
 
 0.1 :: March 25th, 2022, First public release
+0.2 :: March 25th, 2022, Minor grammar review
 
 ---
 *go to...*
