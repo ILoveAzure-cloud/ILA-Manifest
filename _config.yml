@@ -3,3 +3,4 @@ author: Roberto Albano
 email: ila.org@hotmail.com
 description: I Love Azure community manifest
 theme: jekyll-theme-midnight
+auto_ids: true

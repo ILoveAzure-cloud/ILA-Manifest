@@ -19,3 +19,14 @@ Here you can find all the information about this initiative:
 ---
 Manifest version: *0.2*
 [Release notes](history.html)
+
+
+
+
+  {% for item in site.data.tableofcontents.toc %}
+    ### {{ item.title }}</h3>
+      ####
+        {% for entry in item.subfolderitems %}
+          - [{{ entry.page }}]({{ entry.url }})
+        {% endfor %}
+  {% endfor %}
