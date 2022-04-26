@@ -14,7 +14,7 @@ Here you can find all the information about this initiative:
 
 - ## [How to participate to "I Love Azure"?](main/howtopart/howtopart.html)
 
-- ## [Who is part of "I Love Azure"?](Main/WhoIsIn/WhoIsIn.html)
+- ## [Who is part of "I Love Azure"?](main/whoisin/whoisin.html)
 
 ---
 Manifest version: *0.2*
