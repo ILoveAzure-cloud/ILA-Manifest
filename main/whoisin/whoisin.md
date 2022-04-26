@@ -7,33 +7,9 @@ layout: default
 Following there is the list of people involved in this community (ordered alphabetically by surname).
 For all about the roles check [this page](../../common/roles/roles.html).
 
-## Founders
-
-- [Roberto Albano](https://www.linkedin.com/in/robertoalbano)
-
 ## Contributors
 
-TBD
-
-## Editors
-
-- [Roberto Albano](https://www.linkedin.com/in/robertoalbano)
-
-## Publishers
-
-- [Roberto Albano](https://www.linkedin.com/in/robertoalbano)
-
-## Social Managers
-
-- [Roberto Albano](https://www.linkedin.com/in/robertoalbano)
-
-## Moderators
-
-- [Roberto Albano](https://www.linkedin.com/in/robertoalbano)
-
-## Administrators
-
-- [Roberto Albano](https://www.linkedin.com/in/robertoalbano)
+*(coming soon)*
 
 ---
 *go to...*
